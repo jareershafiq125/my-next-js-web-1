@@ -1,6 +1,6 @@
 'use client'
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import Typewriter from 'typewriter-effect';
+
 import React from 'react'
 
 const Feauter = () => {
